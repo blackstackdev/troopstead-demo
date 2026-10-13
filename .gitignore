@@ -1,0 +1,9 @@
+node_modules/
+.env*
+*.log
+*.sqlite
+*.db
+*.dpapi
+*.xlsx
+*.pem
+.DS_Store
